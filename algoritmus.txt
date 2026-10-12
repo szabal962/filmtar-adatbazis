@@ -1,0 +1,17 @@
+A program algoritmusa
+
+1. Beolvassuk a filmek.txt allomany sorait
+2. Ciklus: minden sor-ra
+   2.1. Letrehozunk egy uj Film objektumot a sorbol
+   2.2. Hozzaadjuk a filmek listahoz
+3. Kiirjuk a filmek szamat
+4. Ciklus: minden film-re
+   4.1. Kiirjuk a film adatait
+5. feketefeher = 0
+6. Ciklus: minden film-re
+   6.1. Ha a film nem szines akkor feketefeher = feketefeher + 1
+7. Kiirjuk a fekete-feher filmek szamat
+8. leghosszabb = az elso film
+9. Ciklus: minden film-re
+   9.1. Ha a film hossza nagyobb mint a leghosszabb hossza akkor leghosszabb = film
+10. Kiirjuk a leghosszabb film cimet es hosszat

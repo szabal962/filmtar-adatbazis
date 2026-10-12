@@ -1,0 +1,14 @@
+A feladat megfogalmazása
+
+Készítsünk konzolos alkalmazást, amely egy szöveges állományból (filmek.txt)
+beolvassa a filmek adatait, és az egyes filmeket objektumként kezeli.
+
+A program feladatai:
+- olvassa be a filmek.txt állomány sorait,
+- minden sorból hozzon létre egy Film objektumot,
+- írja ki a filmek listáját,
+- számolja meg, hány fekete-fehér film van,
+- keresse meg a leghosszabb filmet.
+
+Ugyanezekből az adatokból készítsünk egy egy táblás adatbázist is, amelyben
+a filmek adatait tároljuk (filmtar adatbázis, filmek tábla).
